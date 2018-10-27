@@ -14,7 +14,7 @@ This is a Spring Boot starter for automatically configuring Logback loggers and 
 ```
 
 
-### Example of configuring loggers and appenders:
+### Example how to configure Logback loggers and appenders:
 
 ```
 spring:
